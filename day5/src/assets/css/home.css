@@ -1,0 +1,16 @@
+.h2class,.paraclass{
+    color: black;
+}
+.firstdiv{
+    height: 500px;
+    background-image: url('https://res.cloudinary.com/dvyby9jur/image/upload/v1706629354/Screenshot_2024-01-30_211010_jwcsmo.png');
+    
+    /* background-repeat: none; */
+    /* background-image: url('https://res.cloudinary.com/dffbbuued/image/upload/v1706522600/desktop-wallpaper-white-screen-screen-aesthetic-aesthetic-background_c4nwds.jpg'); */
+}
+.seconddiv{
+    padding: 10px;
+    height: 750px;
+    color: white;
+    background-image: url('https://res.cloudinary.com/dvyby9jur/image/upload/v1706630264/1706630083902_vlu46k.jpg');
+}
