@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  /* background-color: black; */
+}
+body{
+  background-repeat: none;
+  /* background-image: url('https://media.istockphoto.com/id/1190757819/photo/the-gray-and-silver-are-light-black-with-white-the-gradient-is-the-surface-with-templates.webp?b=1&s=170667a&w=0&k=20&c=ox9SWY0PI2WSR6rE3icjWBXH2uAwcWUqdHSjVhEXwoI='); */
+  background-size: cover;
+}
+/* .h2{
+  color: black;
+} */
